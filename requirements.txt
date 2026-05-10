@@ -1,3 +1,2 @@
-disnake
-requests
-aiohttp
+flask
+gunicorn
